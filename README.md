@@ -1,7 +1,7 @@
 # **Pyladies_Team-9**
 ## Capstone project collaboration for the Bootcamp Data Analysis/ Pyladies Amsterdam 2020
 
-## Capstone Task ##
+## Capstone Instructions ##
 
 1. **Find a dataset** that has at least 2 CSV files (to merge/join/concat them later) 
 
