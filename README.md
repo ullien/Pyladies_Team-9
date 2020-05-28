@@ -1,9 +1,13 @@
 # **Pyladies_Team-9**
-## Capstone project collaboration for the Bootcamp Data Analysis/ Pyladies Amsterdam 2020
+## Capstone project collaboration for the Bootcamp Data Analysis/ Pyladies Amsterdam 2020  
 
 ## Capstone Instructions ##
 
-- [ ] 1. **Find a dataset** that has at least 2 CSV files (to merge/join/concat them later) 
+- [ ] 1. **Find a dataset** that has at least 2 CSV files (to merge/join/concat them later)    
+     * Life expectancy: https://www.kaggle.com/kumarajarshi/life-expectancy-who
+     * Covid-19: https://www.kaggle.com/nxpnsv/country-health-indicators
+     * BCG vaccine: https://apps.who.int/gho/data/view.main.80500
+
 
 - [ ] 2. Come up with **5 questions** that you want to answer while exploring the dataset
 
