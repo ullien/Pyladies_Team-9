@@ -7,7 +7,7 @@
      * Life expectancy: https://www.kaggle.com/kumarajarshi/life-expectancy-who
      * Covid-19: https://www.kaggle.com/nxpnsv/country-health-indicators
      * BCG vaccine: https://apps.who.int/gho/data/view.main.80500
-     * Worldometers Covi9-19 data from 31.05.20: https://www.worldometers.info/coronavirus/
+     * Worldometers Covid-19 data from 31.05.20: https://www.worldometers.info/coronavirus/
 
 
 - [x] 2. Come up with *5 questions* that you want to answer while exploring the dataset
